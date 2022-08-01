@@ -236,11 +236,11 @@ span, footer {  line-height: 1.8; }
 }
 
 .tm-content {
-    padding: 180px 60px 70px 100px;
+    padding: 110px 60px 70px 100px;
     box-sizing: border-box;
 }
 
-.tm-content-small { padding: 190px 120px 70px; }
+.tm-content-small { padding: 110px 120px 70px; }
 .tm-content-small-top { padding-top: 130px; }
 
 .tm-row {
